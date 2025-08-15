@@ -1,6 +1,7 @@
 ## Interface: 30300
 ## Title: Gold Tracker
 ## Notes: Tracks gold and gold/hour for current instance.
-## Author: Skarz
-## Version: 1.2
+## Author: Skarz + LiquidAP
+## Version: 1.3
+## SavedVariables: GoldTrackerDB
 GoldTracker.lua
